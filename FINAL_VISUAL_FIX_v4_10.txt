@@ -1,0 +1,9 @@
+SAF Trade Ukraine v4.10.0
+
+Final internal-page visual cleanup:
+- Оптовим клієнтам now uses premium real flower-market photography.
+- Постачання та походження квітів uses real floral photography.
+- Свіжість і якість uses real chrysanthemum photography.
+- FAQ uses real tulip photography.
+- No simple vector illustration is used as the primary visual on these managed content pages.
+- Approved v4 layout, brand palette, content, catalogue, forms and backend functionality are unchanged.

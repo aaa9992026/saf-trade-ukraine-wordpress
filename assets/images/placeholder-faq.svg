@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Декоративне зображення квітів">
+<rect width="1600" height="1000" fill="#F7F3EA"/>
+<circle cx="475" cy="320" r="190" fill="#3F765F" opacity=".18"/>
+<circle cx="1125" cy="640" r="260" fill="#0B3327" opacity=".13"/>
+<g transform="translate(595 450)">
+  <path d="M0 360 C40 210 85 120 150 0" stroke="#0B3327" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <ellipse cx="105" cy="170" rx="78" ry="31" fill="#0B3327" opacity=".72" transform="rotate(-32 105 170)"/>
+  <ellipse cx="155" cy="90" rx="76" ry="30" fill="#0B3327" opacity=".55" transform="rotate(28 155 90)"/>
+  <g transform="translate(150 5)">
+    <ellipse cx="0" cy="-82" rx="62" ry="112" fill="#3F765F" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-82" rx="62" ry="112" fill="#C8D9D1" opacity=".86" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-82" rx="62" ry="112" fill="#3F765F" opacity=".78" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-82" rx="62" ry="112" fill="#C8D9D1" opacity=".72" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-82" rx="62" ry="112" fill="#3F765F" opacity=".88" transform="rotate(288)"/>
+    <circle r="44" fill="#0B3327"/>
+  </g>
+</g>
+<g transform="translate(845 420) scale(.78)">
+  <path d="M0 430 C-5 280 35 150 120 0" stroke="#0B3327" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <ellipse cx="35" cy="250" rx="80" ry="30" fill="#0B3327" opacity=".65" transform="rotate(28 35 250)"/>
+  <g transform="translate(120 15)">
+    <ellipse cx="0" cy="-78" rx="57" ry="105" fill="#C8D9D1" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-78" rx="57" ry="105" fill="#3F765F" opacity=".82" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-78" rx="57" ry="105" fill="#C8D9D1" opacity=".75" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-78" rx="57" ry="105" fill="#3F765F" opacity=".72" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-78" rx="57" ry="105" fill="#C8D9D1" opacity=".88" transform="rotate(288)"/>
+    <circle r="39" fill="#0B3327"/>
+  </g>
+</g>
+<path d="M0 860 C300 760 510 900 820 820 C1100 748 1320 830 1600 720 L1600 1000 L0 1000Z" fill="#0B3327" opacity=".10"/>
+</svg>

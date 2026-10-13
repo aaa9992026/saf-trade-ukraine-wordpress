@@ -1,0 +1,7 @@
+SAF Trade Ukraine v4.14 — source-clean comment suppression
+
+- Removes legacy German comment phrases from inline public HTML cleanup scripts.
+- Keeps Jetpack Carousel disabled at source via jp_carousel_maybe_disable.
+- Adds selector-only removal for Jetpack/JP Carousel comment containers as a fallback.
+- Bumps theme/assets to 4.14.0 for cache invalidation.
+- Public inquiry text remains neutral and contains no WordPress/admin wording.

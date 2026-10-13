@@ -1,0 +1,9 @@
+SAF Trade Ukraine v4.12 — final cache/comment and public-copy cleanup
+
+- Completely disables public comments on pages, flower products, /kvitty/ and flower-category archives.
+- Adds WordPress.com/Jetpack defensive filters and dequeues known comment assets on those requests.
+- Adds inline CSS + late MutationObserver cleanup for remotely injected comment forms, including German labels.
+- Replaces visitor-facing WordPress/admin-panel wording with neutral customer wording: “Ваш запит буде надіслано нашій команді.”
+- Bumps theme/assets to 4.12.0 for cache busting.
+
+After upload on WordPress.com: clear all site caches (edge + object), then test logged out/incognito with a hard refresh.

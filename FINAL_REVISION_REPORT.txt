@@ -1,0 +1,49 @@
+SAF TRADE UKRAINE — FINAL REVISION REPORT
+Theme version: 4.6.0
+
+REVISION OBJECTIVE
+Final content-completeness, cleanup and consistency pass while preserving the approved premium design and brand direction.
+
+IMPLEMENTED
+1. Content depth expanded across About, Wholesale, Delivery/Logistics, sourcing/origin, ordering guide, quality and FAQ pages.
+2. Added dedicated “Постачання та походження квітів” page with neutral sourcing language. No countries, auctions, suppliers or import methods are claimed as facts.
+3. Wholesale page expanded: inquiry flow, price-on-request, availability, quantities, packaging, substitutions, recurring orders and specification details.
+4. Delivery/Logistics expanded: preparation, packaging, route/transport, communication/status and receiving process. No unconfirmed delivery days, countries, customs processes, carriers or tariffs are stated.
+5. About page expanded with confirmed project context only: ТОВ «САФ ТРЕЙД УКРАЇНА» / LLC SAF TRADE UKRAINE, B2B flower-wholesale focus, buyer types and website workflow. Unknown corporate facts are explicitly left unclaimed.
+6. Catalogue remains reusable/expandable through WordPress custom post type “Квіти” + hierarchical taxonomy “Категорії квітів” + reusable single-flower template and metadata fields.
+7. Removed visible footer/admin placeholders for missing phone/email/hours/address. Empty values are simply hidden.
+8. Comments disabled for company pages and flower/product pages; existing comments/pings are closed during migration.
+9. Jetpack/WordPress related-post module disabled and hidden; common German comment/related-post strings receive Ukrainian fallback translations if injected by a plugin.
+10. Removed customer-facing development message “Каталог готується / Додайте позиції…”. Empty state is now a professional B2B call-to-action.
+11. Image error handling upgraded: remote images use per-image branded local SVG fallbacks; informational pages use distinct local branded visuals to reduce repeated demo imagery.
+12. Legacy demo product origins/countries and English sample product titles are migrated to neutral Ukrainian catalogue examples. Origin is “За конкретною партією” unless confirmed.
+13. Search placeholder and visible catalogue language cleaned to Ukrainian.
+14. B2B request form remains AJAX-enabled, mobile responsive, consent-protected, saves requests to “Оптові запити” and emails the WordPress administrator.
+15. Responsive CSS retained/checked for desktop, tablet and mobile grids, menu, product pages, forms and footer.
+16. Brand palette retained: #0B3327, #06241B, #3F765F, #6F9A86, #F7F3EA, #8A3F52.
+17. Company naming standardized: ТОВ «САФ ТРЕЙД УКРАЇНА» / LLC SAF TRADE UKRAINE.
+
+FACT-SAFETY RULE
+The theme intentionally does not invent sourcing countries, suppliers, auctions, import/customs processes, delivery regions, guaranteed lead times, minimum order values, fixed prices, company history, physical address or business hours. Those details should be entered only after client confirmation.
+
+REFERENCE NOTE
+The design is original and modern. Content depth was expanded to cover the reference-style informational areas requested by the client without copying reference wording or design.
+
+v4.7 final catalogue cleanup
+- Migrates the legacy “Chrysanthemum Baltica” demo title to the consistent Ukrainian catalogue title “Хризантема — оптова категорія”.
+- Gives every seeded catalogue example its own local branded botanical artwork, avoiding repeated demo images.
+- Keeps all new/client-created catalogue items expandable through the same reusable WordPress templates.
+- Does not invent product origin, availability, minimum quantity, delivery timing, price or supplier facts.
+
+
+V4.8 PREMIUM PHOTO UPDATE
+- Replaced all six simple catalogue illustrations with six distinct realistic premium flower photographs.
+- Updated homepage flower category cards to use bundled local photographic assets.
+- No external hotlink dependency for catalogue/category flower images.
+- Kept the approved v4 layout, colors, content and functionality unchanged.
+
+
+V4.9 FINAL VISUAL POLISH
+- Replaced the simple About illustration with a premium floral photograph.
+- Replaced the sparse Delivery/Logistics visual with a premium logistics photograph.
+- Kept approved v4 layout, colors, content architecture and all tested backend functionality unchanged.

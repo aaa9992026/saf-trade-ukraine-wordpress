@@ -1,0 +1,10 @@
+SAF Trade Ukraine v4.11 — final comment removal
+
+Fixes the last client-reported issue on /kvitty/ and /kategoriya-kvitiv/*:
+- comments disabled at WordPress API level for pages, flowers, catalogue archive and flower-category taxonomy requests
+- empty comments templates added defensively
+- common WordPress/Jetpack comment UI and iframes hidden on those requests
+- dynamic WordPress.com comment injection removed with a MutationObserver
+- German comment form strings therefore cannot remain visible on the catalogue/category frontend
+
+No design, content, catalogue, forms, inquiry backend, branding or responsive behavior was otherwise changed.

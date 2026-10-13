@@ -1,0 +1,24 @@
+SAF TRADE UKRAINE — FINAL LIVE QA CHECKLIST (v4.6.0)
+
+After replacing the active theme and opening WP Admin once:
+[ ] Home loads with header, hero and all images/fallbacks
+[ ] Primary nav: Головна / Каталог / Про компанію / Оптовим клієнтам / Доставка / Контакти
+[ ] Information links: Постачання та походження / Закупівля та доставка / Як замовити / Свіжість і якість / FAQ
+[ ] No German comment or “Ähnliche Beiträge” elements visible
+[ ] Comments are not available on pages or flower/product pages
+[ ] Catalogue has no admin/development instructions
+[ ] Catalogue filters and Ukrainian search work
+[ ] 3+ flower cards and single-flower pages open with no 404
+[ ] Product origin fields show neutral “За конкретною партією” unless confirmed data was entered
+[ ] No broken image icon remains; failed image URLs fall back to local branded artwork
+[ ] “Запросити ціни” modal opens on desktop and mobile
+[ ] Test B2B inquiry submits successfully
+[ ] Test inquiry appears in WP Admin → Оптові запити
+[ ] Admin notification e-mail arrives
+[ ] Footer hides missing contact fields instead of showing setup instructions
+[ ] Desktop ~1440px checked
+[ ] Tablet ~768–1024px checked
+[ ] Mobile ~360–430px checked
+[ ] Brand colors and logo direction remain consistent
+[ ] Ukrainian punctuation/naming reviewed
+[ ] Client-approved real phone/e-mail/address/hours entered only if supplied

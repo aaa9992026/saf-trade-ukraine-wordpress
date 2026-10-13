@@ -1,0 +1,7 @@
+SAF Trade Ukraine v4.13 — Jetpack Carousel source-level comment removal
+
+- Disables Jetpack Carousel via the official jp_carousel_maybe_disable filter before its frontend initialization.
+- Prevents jp-carousel-comments-wrapper / German photo-comment fields from being emitted into public HTML source.
+- Forces carousel_display_comments and carousel_enable_it off as a defensive fallback.
+- Preserves all SAF Trade catalogue, product, inquiry, responsive and content functionality.
+- Keeps the neutral public inquiry copy; no WordPress/admin wording is exposed to visitors.

@@ -1,0 +1,28 @@
+SAF TRADE UKRAINE — CONTENT COVERAGE v4.6.0
+
+CORE
+- Homepage / B2B value proposition
+- About / company context
+- Expandable flower catalogue and categories
+- Reusable flower/product detail template
+- Wholesale customer information
+- Delivery and logistics
+- Contact / B2B request form
+
+DEEP INFORMATION
+- Постачання та походження квітів
+- Закупівля та доставка квітів оптом
+- Як замовити квіти оптом
+- Свіжість і якість квітів у B2B-поставці
+- FAQ: price-on-request, availability, minimum quantities, origin, substitutions, recurring orders, logistics
+
+CATALOGUE MODEL
+- Custom post type: flower (Квіти)
+- Hierarchical taxonomy: flower_category (Категорії квітів)
+- Reusable fields: origin/source, grade, packaging, availability, MOQ, colors, stem length
+- Reusable single-product and category/archive layouts
+- Search and category filtering
+- Featured image support with branded fallbacks
+
+FACT SAFETY
+Unknown business facts are not asserted. Country of origin, supplier, auction, import method, minimum order, delivery region/timing, customs process, carrier, price, company history, address and hours must be confirmed before publication.

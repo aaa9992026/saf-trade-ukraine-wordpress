@@ -1,0 +1,18 @@
+SAF Trade Ukraine — Image Sources
+
+1. wholesale-market.jpg
+- Existing local photographic asset bundled with the theme.
+
+2. catalog-*.jpg
+- Premium flower catalogue photography created specifically for this theme.
+- Six distinct local JPG assets are bundled in the theme so the catalogue does not depend on external image URLs.
+- Files: catalog-seasonal.jpg, catalog-sunflower.jpg, catalog-mums.jpg, catalog-rose-red.jpg, catalog-rose-light.jpg, catalog-tulips.jpg.
+
+3. placeholder-*.svg and logo-mark.svg
+- Original theme artwork used only as defensive fallbacks / branding, not as the primary public catalogue photography.
+
+No third-party image hotlink is required for the catalogue cards.
+
+Final v4.9 visual assets:
+- about-company-premium.jpg — generated for this project with OpenAI image generation; used as the About page photo.
+- delivery-logistics-premium.jpg — generated for this project with OpenAI image generation; used as the Delivery & Logistics page photo.
